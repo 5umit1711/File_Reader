@@ -1,0 +1,23 @@
+```gitignore
+# Compiled executable
+*.exe
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.out
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+```

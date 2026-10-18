@@ -1,0 +1,14 @@
+Networking and Systems Programming
+
+A server listens for incoming client connections.
+A client can connect to a server using sockets.
+C++ can be used to build a multi-client server.
+
+File handling is important in many applications.
+A search engine can find text inside multiple files.
+Fast search requires efficient algorithms and data structures.
+
+The file reader scans directories recursively.
+It reads each file and searches for matching words.
+
+C++ is powerful for systems programming.

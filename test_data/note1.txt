@@ -1,0 +1,15 @@
+
+C++ File Search Engine Project
+
+I am learning C++ programming.
+This project will search files inside a directory.
+The file reader can read text line by line.
+
+C++ provides useful libraries for file handling.
+We can use vectors to store file paths.
+We can use strings to search for specific words.
+
+Later, this search engine will use an index
+to make searching large directories faster.
+
+File searching is useful for developers.
